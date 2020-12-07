@@ -55,7 +55,11 @@ h2{
   font-family:georgia;
 }
 
-.top-nav ul{
+.top-nav
+a{
+	text-decoration:none;
+}
+ ul{
 	list-style-type:none;
 }
 
